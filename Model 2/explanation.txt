@@ -1,0 +1,4 @@
+The following are the complete code files for Model 2. Among them, Luciferase_curve corresponds to the fitting curve of luciferase activity, 
+effectiveness_surface_diagram is a two-dimensional surface plot of effectiveness with respect to osmotic pressure and temperature, 
+and relative_efficiency_molar_concentration corresponds to the curve of relative effectiveness with respect to the change in salt molar concentration, 
+while relative_efficiency_temperature corresponds to the curve of relative effectiveness with respect to temperature.
