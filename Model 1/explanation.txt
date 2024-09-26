@@ -1,0 +1,2 @@
+Here are the entire code files for the Model 1. Among them, the files data1, data2, data3, and data4 are the fitting of the decay curve data from the existing experiments, 
+while the proportion file determines the proportion of normal active E. coli in various situations, and the solvea file is used to solve an important constant in the model.
