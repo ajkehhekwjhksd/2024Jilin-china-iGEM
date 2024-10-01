@@ -1,0 +1,4 @@
+In 'the set of all the curves in Model 4.ipynb', you can get the results of our suicide model, which includes: 
+the normal decline curve with a high number of bacteria, 
+the density curve after the normal declination reaches the density threshold after activating the toxin pathway, 
+and the density curve when the bacteria spill into the low-density area or the outside world.
