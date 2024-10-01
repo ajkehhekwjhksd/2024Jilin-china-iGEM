@@ -1,0 +1,3 @@
+If you run the gif-creater.m, then you can find an elastic cylindrical hydrogel that emits light under compression.
+In the Related curve delineation code.ipynb, you can see the calculation of the number of days that the light intensity exceeds the standard light intensity threshold I0,
+and the curve of the luminous duration at different days.
